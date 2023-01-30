@@ -3,3 +3,4 @@ print(a[-2])
 d=a[1:4]
 print(d)
 print(a[5])
+print(a[6])
